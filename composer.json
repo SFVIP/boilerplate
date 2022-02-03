@@ -1,0 +1,11 @@
+{
+    "name": "vip/boilerplate",
+    "description": "Simon MVC boilerplate",
+    "authors": [
+        {
+            "name": "SFVIP",
+            "email": "simonfookp@gmail.com"
+        }
+    ],
+    "require": {}
+}
