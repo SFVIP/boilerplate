@@ -1,2 +1,2 @@
 # boilerplate
-My boilerplate for the MVC (PhpActiveRecord, Twig, Slim)
+My boilerplate for the MVC (Cycle, Twig, Slim)
